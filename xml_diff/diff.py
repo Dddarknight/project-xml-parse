@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-import os
 import json
 from xml_diff.dict_diff import make_dict_diff
 
@@ -27,10 +26,9 @@ def extact_elems_from_flight(flights_list):
         flights_numbers += ' - ' + itinerary.find('./FlightNumber').text
         if index == len(flights_list) - 1:
             time_arrival = itinerary.find('./ArrivalTimeStamp').text
-    return source, {f'flights_numbers {flights_numbers.strip(" - ")}': {
-        'time_departure': time_departure, 'time_arrival': time_arrival
-            }
-        }  
+        time = {'time_departure': time_departure, 'time_arrival': time_arrival}
+        params = {f"flights_numbers {flights_numbers.strip(' - ')}": time}
+    return source, params
 
 
 def make_itineraries(root):
@@ -45,11 +43,13 @@ def make_itineraries(root):
         if return_flight:
             flight = return_flight.findall('./Flights/Flight')
             source_return, params = extact_elems_from_flight(flight)
-            dict_itineraries[source].update({f"Return_itinerary": {source_return: params}})
+            return_dict = {"Return_itinerary": {source_return: params}}
+            dict_itineraries[source].update(return_dict)
         pricing = full_flight.findall('./Pricing/ServiceCharges')
         if not pricing:
             continue
-        dict_itineraries[source]["Pricing"]={}
+        dict_itineraries[source]["Pricing"] = {}
         for charge in pricing:
-            dict_itineraries[source]["Pricing"].update({f'{charge.attrib}': charge.text})
+            charge_dict = {f'{charge.attrib}': charge.text}
+            dict_itineraries[source]["Pricing"].update(charge_dict)
     return dict_itineraries
