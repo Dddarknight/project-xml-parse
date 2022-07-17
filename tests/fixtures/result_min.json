@@ -1,0 +1,58 @@
+{
+    "DXB - CAN - BKK": "removed {'flights_numbers 384 - 3035': {'time_departure': '2015-10-22T0100', 'time_arrival': '2015-10-22T1650'}, 'Return_itinerary': {'BKK - CAN - DXB': {'flights_numbers 358 - 383': {'time_departure': '2015-10-30T1155', 'time_arrival': '2015-10-30T2359'}}}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '389.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '303.20', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '692.20'}}",
+    "DXB - BOM - BKK": {
+        "Return_itinerary": {
+            "BKK - BOM - DXB": {
+                "flights_numbers 61 - 544": {
+                    "time_arrival": "updated from 2015-10-30T2045 to 2015-11-30T2045",
+                    "time_departure": "updated from 2015-10-30T0855 to 2015-11-30T0855"
+                }
+            }
+        },
+        "flights_numbers 537 - 70": {
+            "time_arrival": "updated from 2015-10-23T1440 to 2015-11-23T1440",
+            "time_departure": "updated from 2015-10-22T1845 to 2015-11-22T1845"
+        },
+        "Pricing": {
+            "{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}": "unchanged",
+            "{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}": "unchanged",
+            "{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}": "unchanged"
+        }
+    },
+    "DXB - DEL - BKK": {
+        "Return_itinerary": {
+            "BKK - DEL - DXB": {
+                "flights_numbers 333 - 995": {
+                    "time_arrival": "unchanged",
+                    "time_departure": "unchanged"
+                }
+            }
+        },
+        "flights_numbers 996 - 332": {
+            "time_arrival": "updated from 2015-10-22T1935 to 2015-10-22T1950",
+            "time_departure": "updated from 2015-10-22T0005 to 2015-10-22T0010"
+        },
+        "Pricing": {
+            "{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}": "updated from 546.80 to 500.00",
+            "{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}": "updated from 117.00 to 100.00",
+            "{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}": "updated from 429.80 to 450.00"
+        }
+    },
+    "DXB - KUL - BKK": {
+        "Return_itinerary": "removed {'BKK - KUL - DXB': {'flights_numbers 785 - 162': {'time_departure': '2015-10-30T1105', 'time_arrival': '2015-10-30T1850'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 163 - 776": "removed {'time_departure': '2015-10-22T1935', 'time_arrival': '2015-10-23T2000'}",
+        "flights_numbers 163 - 784": {
+            "time_arrival": "unchanged",
+            "time_departure": "unchanged"
+        }
+    },
+    "DXB - MCT - BKK": {
+        "Return_itinerary": "removed {'BKK - MCT - DXB': {'flights_numbers 816 - 601': {'time_departure': '2015-10-30T2030', 'time_arrival': '2015-10-31T0300'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 614 - 817": {
+            "time_arrival": "unchanged",
+            "time_departure": "unchanged"
+        }
+    }
+}

@@ -1,0 +1,455 @@
+<AirFareSearchResponse RequestTime="28-09-2015 20:23:49" ResponseTime="28-09-2015 20:23:56">
+    <RequestId>123ABCD</RequestId>
+    <PricedItineraries>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="AI">AirIndia</Carrier>
+                        <FlightNumber>996</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>DEL</Destination>
+                        <DepartureTimeStamp>2015-10-22T0005</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T0445</ArrivalTimeStamp>
+                        <Class>G</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_DEL_996_9_00:05_$255_DEL_BKK_332_9_13:50_$255_BKK_DEL_333_9_08:50_$255_DEL_DXB_995_9_20:40__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="AI">AirIndia</Carrier>
+                        <FlightNumber>332</FlightNumber>
+                        <Source>DEL</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-22T1350</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T1935</ArrivalTimeStamp>
+                        <Class>G</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_DEL_996_9_00:05_$255_DEL_BKK_332_9_13:50_$255_BKK_DEL_333_9_08:50_$255_DEL_DXB_995_9_20:40__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="AI">AirIndia</Carrier>
+                        <FlightNumber>333</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>DEL</Destination>
+                        <DepartureTimeStamp>2015-10-30T0850</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1205</ArrivalTimeStamp>
+                        <Class>U</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_DEL_996_9_00:05_$255_DEL_BKK_332_9_13:50_$255_BKK_DEL_333_9_08:50_$255_DEL_DXB_995_9_20:40__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="AI">AirIndia</Carrier>
+                        <FlightNumber>995</FlightNumber>
+                        <Source>DEL</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-30T2040</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T2245</ArrivalTimeStamp>
+                        <Class>U</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_DEL_996_9_00:05_$255_DEL_BKK_332_9_13:50_$255_BKK_DEL_333_9_08:50_$255_DEL_DXB_995_9_20:40__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">117.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">429.80</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">546.80</ServiceCharges>
+            </Pricing>
+        </Flights>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>163</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>KUL</Destination>
+                        <DepartureTimeStamp>2015-10-22T1935</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T0705</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_776_44_18:50_$255_BKK_KUL_797_44_05:55_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>776</FlightNumber>
+                        <Source>KUL</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-23T1850</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T2000</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_776_44_18:50_$255_BKK_KUL_797_44_05:55_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>797</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>KUL</Destination>
+                        <DepartureTimeStamp>2015-10-30T0555</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T0905</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_776_44_18:50_$255_BKK_KUL_797_44_05:55_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>162</FlightNumber>
+                        <Source>KUL</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-30T1515</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1850</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_776_44_18:50_$255_BKK_KUL_797_44_05:55_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">563.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">60.80</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">623.80</ServiceCharges>
+            </Pricing>
+        </Flights>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>163</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>KUL</Destination>
+                        <DepartureTimeStamp>2015-10-22T1935</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T0705</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_784_44_09:10_$255_BKK_KUL_785_44_11:05_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>784</FlightNumber>
+                        <Source>KUL</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-23T0910</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T1015</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_784_44_09:10_$255_BKK_KUL_785_44_11:05_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>785</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>KUL</Destination>
+                        <DepartureTimeStamp>2015-10-30T1105</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1415</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_784_44_09:10_$255_BKK_KUL_785_44_11:05_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="MH">Malaysia Airlines</Carrier>
+                        <FlightNumber>162</FlightNumber>
+                        <Source>KUL</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-30T1515</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1850</ArrivalTimeStamp>
+                        <Class>N</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_KUL_163_44_19:35_$255_KUL_BKK_784_44_09:10_$255_BKK_KUL_785_44_11:05_$255_KUL_DXB_162_44_15:15__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">563.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">60.80</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">623.80</ServiceCharges>
+            </Pricing>
+        </Flights>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="9W">JetAirways</Carrier>
+                        <FlightNumber>537</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>BOM</Destination>
+                        <DepartureTimeStamp>2015-10-22T1845</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T2330</ArrivalTimeStamp>
+                        <Class>V</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_BOM_537_6_18:45_$255_BOM_BKK_70_6_08:40_$255_BKK_BOM_61_6_08:55_$255_BOM_DXB_544_6_18:50__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="9W">JetAirways</Carrier>
+                        <FlightNumber>70</FlightNumber>
+                        <Source>BOM</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-23T0840</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T1440</ArrivalTimeStamp>
+                        <Class>V</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_BOM_537_6_18:45_$255_BOM_BKK_70_6_08:40_$255_BKK_BOM_61_6_08:55_$255_BOM_DXB_544_6_18:50__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="9W">JetAirways</Carrier>
+                        <FlightNumber>61</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>BOM</Destination>
+                        <DepartureTimeStamp>2015-10-30T0855</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1155</ArrivalTimeStamp>
+                        <Class>W</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_BOM_537_6_18:45_$255_BOM_BKK_70_6_08:40_$255_BKK_BOM_61_6_08:55_$255_BOM_DXB_544_6_18:50__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="9W">JetAirways</Carrier>
+                        <FlightNumber>544</FlightNumber>
+                        <Source>BOM</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-30T1850</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T2045</ArrivalTimeStamp>
+                        <Class>V</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_BOM_537_6_18:45_$255_BOM_BKK_70_6_08:40_$255_BKK_BOM_61_6_08:55_$255_BOM_DXB_544_6_18:50__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">311.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">336.40</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">647.40</ServiceCharges>
+            </Pricing>
+        </Flights>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="CZ">China Southern Airlines</Carrier>
+                        <FlightNumber>384</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>CAN</Destination>
+                        <DepartureTimeStamp>2015-10-22T0100</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T1245</ArrivalTimeStamp>
+                        <Class>T</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_CAN_384_107_01:00_$255_CAN_BKK_3035_107_15:05_$255_BKK_CAN_358_107_11:55_$255_CAN_DXB_383_107_18:30__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="CZ">China Southern Airlines</Carrier>
+                        <FlightNumber>3035</FlightNumber>
+                        <Source>CAN</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-22T1505</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T1650</ArrivalTimeStamp>
+                        <Class>Y</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_CAN_384_107_01:00_$255_CAN_BKK_3035_107_15:05_$255_BKK_CAN_358_107_11:55_$255_CAN_DXB_383_107_18:30__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="CZ">China Southern Airlines</Carrier>
+                        <FlightNumber>358</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>CAN</Destination>
+                        <DepartureTimeStamp>2015-10-30T1155</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T1545</ArrivalTimeStamp>
+                        <Class>Y</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_CAN_384_107_01:00_$255_CAN_BKK_3035_107_15:05_$255_BKK_CAN_358_107_11:55_$255_CAN_DXB_383_107_18:30__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="CZ">China Southern Airlines</Carrier>
+                        <FlightNumber>383</FlightNumber>
+                        <Source>CAN</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-30T1830</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-30T2359</ArrivalTimeStamp>
+                        <Class>T</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_CAN_384_107_01:00_$255_CAN_BKK_3035_107_15:05_$255_BKK_CAN_358_107_11:55_$255_CAN_DXB_383_107_18:30__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">389.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">303.20</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">692.20</ServiceCharges>
+            </Pricing>
+        </Flights>
+        <Flights>
+            <OnwardPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="WY">Oman Air</Carrier>
+                        <FlightNumber>614</FlightNumber>
+                        <Source>DXB</Source>
+                        <Destination>MCT</Destination>
+                        <DepartureTimeStamp>2015-10-22T1915</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-22T2025</ArrivalTimeStamp>
+                        <Class>L</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_MCT_614_60_19:15_$255_MCT_BKK_817_60_22:25_$255_BKK_MCT_816_60_20:30_$255_MCT_DXB_601_60_01:45__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="WY">Oman Air</Carrier>
+                        <FlightNumber>817</FlightNumber>
+                        <Source>MCT</Source>
+                        <Destination>BKK</Destination>
+                        <DepartureTimeStamp>2015-10-22T2225</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-23T0800</ArrivalTimeStamp>
+                        <Class>L</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_MCT_614_60_19:15_$255_MCT_BKK_817_60_22:25_$255_BKK_MCT_816_60_20:30_$255_MCT_DXB_601_60_01:45__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </OnwardPricedItinerary>
+            <ReturnPricedItinerary>
+                <Flights>
+                    <Flight>
+                        <Carrier id="WY">Oman Air</Carrier>
+                        <FlightNumber>816</FlightNumber>
+                        <Source>BKK</Source>
+                        <Destination>MCT</Destination>
+                        <DepartureTimeStamp>2015-10-30T2030</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-31T0020</ArrivalTimeStamp>
+                        <Class>L</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_MCT_614_60_19:15_$255_MCT_BKK_817_60_22:25_$255_BKK_MCT_816_60_20:30_$255_MCT_DXB_601_60_01:45__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                    <Flight>
+                        <Carrier id="WY">Oman Air</Carrier>
+                        <FlightNumber>601</FlightNumber>
+                        <Source>MCT</Source>
+                        <Destination>DXB</Destination>
+                        <DepartureTimeStamp>2015-10-31T0145</DepartureTimeStamp>
+                        <ArrivalTimeStamp>2015-10-31T0300</ArrivalTimeStamp>
+                        <Class>L</Class>
+                        <NumberOfStops>0</NumberOfStops>
+                        <FareBasis>
+                            2820231f40c802-03e6-4655-9ece-0fb1ad670b5c@@$255_DXB_MCT_614_60_19:15_$255_MCT_BKK_817_60_22:25_$255_BKK_MCT_816_60_20:30_$255_MCT_DXB_601_60_01:45__A2_0_0
+                        </FareBasis>
+                        <WarningText/>
+                        <TicketType>E</TicketType>
+                    </Flight>
+                </Flights>
+            </ReturnPricedItinerary>
+            <Pricing currency="SGD">
+                <ServiceCharges type="SingleAdult" ChargeType="BaseFare">637.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="AirlineTaxes">76.00</ServiceCharges>
+                <ServiceCharges type="SingleAdult" ChargeType="TotalAmount">713.00</ServiceCharges>
+            </Pricing>
+        </Flights>
+    </PricedItineraries>
+</AirFareSearchResponse>

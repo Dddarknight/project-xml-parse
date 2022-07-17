@@ -1,0 +1,361 @@
+{
+    "DXB - BWN - BKK": "removed {'flights_numbers 98 - 519': {'time_departure': '2015-10-22T0515', 'time_arrival': '2015-10-22T2000'}, 'Return_itinerary': {'BKK - BWN - DXB': {'flights_numbers 514 - 97': {'time_departure': '2015-10-30T1340', 'time_arrival': '2015-10-31T0130'}}}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '475.95', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '309.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '785.35'}}",
+    "DXB - CMB - BKK": "removed {'flights_numbers 226 - 882': {'time_departure': '2015-10-22T2250', 'time_arrival': '2015-10-23T1210'}, 'Return_itinerary': {'BKK - CMB - DXB': {'flights_numbers 403 - 225': {'time_departure': '2015-10-30T0900', 'time_arrival': '2015-10-30T2150'}}}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '734.35', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '417.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '1151.75'}}",
+    "DXB - MLE - BKK": "added {'flights_numbers 656 - 712': {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1900'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3701.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '242.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '3943.40', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2777.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '242.40', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '3019.40', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '373.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '4.30', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '377.30'}, 'flights_numbers 658 - 712': {'time_departure': '2015-10-27T0435', 'time_arrival': '2015-10-27T1900'}}",
+    "DXB - ICN - BKK": "added {'flights_numbers 5952 - 659': {'time_departure': '2015-10-27T0330', 'time_arrival': '2015-10-27T2255'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '1227.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '174.20', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '1401.20', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '921.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '174.20', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '1095.20', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '125.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '2.60', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '127.60'}, 'flights_numbers 952 - 651': {'time_departure': '2015-10-27T2255', 'time_arrival': '2015-10-28T2105'}, 'flights_numbers 952 - 659': {'time_departure': '2015-10-27T2255', 'time_arrival': '2015-10-28T2255'}}",
+    "DXB - DAC - BKK": "added {'flights_numbers 584 - 746': {'time_departure': '2015-10-27T1315', 'time_arrival': '2015-10-28T0140'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3701.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '192.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '3893.40', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2777.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '192.40', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '2969.40', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '373.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '4.30', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '377.30'}, 'flights_numbers 586 - 746': {'time_departure': '2015-10-27T1030', 'time_arrival': '2015-10-28T0140'}}",
+    "DXB - KHI - BKK": "added {'flights_numbers 208 - 508': {'time_departure': '2015-10-27T1240', 'time_arrival': '2015-10-28T0650'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3635.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '224.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '3859.40', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2726.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '224.40', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '2950.40', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '365.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '7.20', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '372.20'}}",
+    "DXB - SGN - BKK": "added {'flights_numbers 392 - 557': {'time_departure': '2015-10-27T0940', 'time_arrival': '2015-10-27T2220'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3701.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '329.90', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '4030.90', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2777.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '329.90', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '3106.90', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '373.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '4.30', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '377.30'}}",
+    "DXB - PVG - BKK": "added {'flights_numbers 756 - 9853': {'time_departure': '2015-10-27T2045', 'time_arrival': '2015-10-28T2225'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '550.05', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '264.20', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '814.25', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '413.25', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '244.00', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '657.25', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '521.00', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '521.00'}, 'flights_numbers 756 - 9855': {'time_departure': '2015-10-27T2045', 'time_arrival': '2015-10-28T1750'}}",
+    "DXB - CTU - BKK": "added {'flights_numbers 8946 - 8145': {'time_departure': '2015-10-27T1810', 'time_arrival': '2015-10-28T1710'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '571.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '257.30', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '828.30', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '431.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '237.10', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '668.10', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '59.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '11.40', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '70.40'}}",
+    "DXB - HKT - BKK": "added {'flights_numbers 378 - 270': {'time_departure': '2015-10-27T1245', 'time_arrival': '2015-10-28T0820'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3701.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '290.70', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '3991.70', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2777.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '290.70', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '3067.70', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '373.00', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '373.00'}}",
+    "DXB - HKG - BKK": "added {'flights_numbers 382 - 385': {'time_departure': '2015-10-27T0320', 'time_arrival': '2015-10-27T2315'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '532.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '290.70', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '822.70', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '400.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '290.70', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '690.70', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '63.00', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '63.00'}}",
+    "DXB - IST - BKK": "added {'flights_numbers 763 - 64': {'time_departure': '2015-10-27T0825', 'time_arrival': '2015-10-28T0945'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '544.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '303.10', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '847.10', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '408.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '303.10', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '711.10', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '55.00', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '55.00'}}",
+    "DXB - KMG - BKK": "added {'flights_numbers 756 - 2579': {'time_departure': '2015-10-27T2045', 'time_arrival': '2015-10-28T2115'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '550.05', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '162.60', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '712.65', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '413.25', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '142.40', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '555.65', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '521.00', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '521.00'}, 'flights_numbers 756 - 5077': {'time_departure': '2015-10-27T2045', 'time_arrival': '2015-10-28T1955'}, 'flights_numbers 756 - 741': {'time_departure': '2015-10-27T2045', 'time_arrival': '2015-10-28T1455'}}",
+    "DXB - LHE - BKK": "added {'flights_numbers 204 - 346': {'time_departure': '2015-10-27T1300', 'time_arrival': '2015-10-28T0630'}, 'Pricing': {\"{'type': 'SingleAdult', 'ChargeType': 'BaseFare'}\": '3635.00', \"{'type': 'SingleAdult', 'ChargeType': 'AirlineTaxes'}\": '224.40', \"{'type': 'SingleAdult', 'ChargeType': 'TotalAmount'}\": '3859.40', \"{'type': 'SingleChild', 'ChargeType': 'BaseFare'}\": '2726.00', \"{'type': 'SingleChild', 'ChargeType': 'AirlineTaxes'}\": '224.40', \"{'type': 'SingleChild', 'ChargeType': 'TotalAmount'}\": '2950.40', \"{'type': 'SingleInfant', 'ChargeType': 'BaseFare'}\": '365.00', \"{'type': 'SingleInfant', 'ChargeType': 'AirlineTaxes'}\": '7.20', \"{'type': 'SingleInfant', 'ChargeType': 'TotalAmount'}\": '372.20'}}",
+    "DXB - CAN - BKK": {
+        "Return_itinerary": "removed {'BKK - CAN - DXB': {'flights_numbers 358 - 383': {'time_departure': '2015-10-30T1155', 'time_arrival': '2015-10-30T2359'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 384 - 669": "added {'time_departure': '2015-10-27T0140', 'time_arrival': '2015-10-27T1700'}",
+        "flights_numbers 384 - 679": "added {'time_departure': '2015-10-27T0140', 'time_arrival': '2015-10-27T2245'}",
+        "flights_numbers 384 - 363": {
+            "time_arrival": "updated from 2015-10-22T1755 to 2015-10-27T1755",
+            "time_departure": "updated from 2015-10-22T0100 to 2015-10-27T0140"
+        },
+        "flights_numbers 384 - 361": {
+            "time_arrival": "updated from 2015-10-22T2200 to 2015-10-27T2150",
+            "time_departure": "updated from 2015-10-22T0100 to 2015-10-27T0140"
+        },
+        "flights_numbers 384 - 3035": {
+            "time_arrival": "updated from 2015-10-22T1650 to 2015-10-27T1710",
+            "time_departure": "updated from 2015-10-22T0100 to 2015-10-27T0140"
+        }
+    },
+    "DXB - SIN - BKK": {
+        "Return_itinerary": "removed {'BKK - SIN - DXB': {'flights_numbers 977 - 490': {'time_departure': '2015-10-30T1540', 'time_arrival': '2015-10-31T0510'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 495 - 978": "added {'time_departure': '2015-10-27T2000', 'time_arrival': '2015-10-28T2010'}",
+        "flights_numbers 8432 - 976": "added {'time_departure': '2015-10-27T0235', 'time_arrival': '2015-10-27T1725'}",
+        "flights_numbers 8352 - 972": "added {'time_departure': '2015-10-27T2130', 'time_arrival': '2015-10-28T1110'}",
+        "flights_numbers 491 - 972": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T1110'}",
+        "flights_numbers 8354 - 978": "added {'time_departure': '2015-10-27T0315', 'time_arrival': '2015-10-27T2010'}",
+        "flights_numbers 495 - 972": "added {'time_departure': '2015-10-27T2000', 'time_arrival': '2015-10-28T1110'}",
+        "flights_numbers 495 - 976": "added {'time_departure': '2015-10-27T2000', 'time_arrival': '2015-10-28T1725'}",
+        "flights_numbers 495 - 402": "added {'time_departure': '2015-10-27T2000', 'time_arrival': '2015-10-28T0935'}",
+        "flights_numbers 491 - 976": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T1725'}",
+        "flights_numbers 495 - 974": "added {'time_departure': '2015-10-27T2000', 'time_arrival': '2015-10-28T1435'}",
+        "flights_numbers 8354 - 414": "added {'time_departure': '2015-10-27T0315', 'time_arrival': '2015-10-27T1715'}",
+        "flights_numbers 8352 - 4212": "added {'time_departure': '2015-10-27T2130', 'time_arrival': '2015-10-28T2035'}",
+        "flights_numbers 8432 - 4212": "added {'time_departure': '2015-10-27T0235', 'time_arrival': '2015-10-27T2035'}",
+        "flights_numbers 8354 - 4212": "added {'time_departure': '2015-10-27T0315', 'time_arrival': '2015-10-27T2035'}",
+        "flights_numbers 491 - 402": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T0935'}",
+        "flights_numbers 8354 - 976": "added {'time_departure': '2015-10-27T0315', 'time_arrival': '2015-10-27T1725'}",
+        "flights_numbers 8432 - 414": "added {'time_departure': '2015-10-27T0235', 'time_arrival': '2015-10-27T1715'}",
+        "flights_numbers 491 - 974": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T1435'}",
+        "flights_numbers 491 - 970": {
+            "time_arrival": "updated from 2015-10-23T0835 to 2015-10-28T0840",
+            "time_departure": "updated from 2015-10-22T1800 to 2015-10-27T1800"
+        }
+    },
+    "DXB - DEL - BKK": {
+        "Return_itinerary": "removed {'BKK - BOM - DXB': {'flights_numbers 67 - 580': {'time_departure': '2015-10-30T2135', 'time_arrival': '2015-10-31T0335'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 996 - 324": "added {'time_departure': '2015-10-27T0005', 'time_arrival': '2015-10-27T1640'}",
+        "flights_numbers 510 - 332": "added {'time_departure': '2015-10-27T0430', 'time_arrival': '2015-10-27T1920'}",
+        "flights_numbers 545 - 332": "added {'time_departure': '2015-10-27T1435', 'time_arrival': '2015-10-28T0900'}",
+        "flights_numbers 545 - 316": "added {'time_departure': '2015-10-27T1435', 'time_arrival': '2015-10-28T0540'}",
+        "flights_numbers 510 - 324": "added {'time_departure': '2015-10-27T0430', 'time_arrival': '2015-10-27T1640'}",
+        "flights_numbers 996 - 64": "added {'time_departure': '2015-10-27T0005', 'time_arrival': '2015-10-27T1430'}",
+        "flights_numbers 547 - 64": {
+            "time_arrival": "updated from 2015-10-23T1350 to 2015-10-28T1430",
+            "time_departure": "updated from 2015-10-22T2255 to 2015-10-27T2320"
+        },
+        "flights_numbers 996 - 332": {
+            "time_arrival": "updated from 2015-10-22T1935 to 2015-10-27T1920",
+            "time_departure": "updated from 2015-10-22T0005 to 2015-10-27T0005"
+        }
+    },
+    "DXB - DOH - BKK": {
+        "Return_itinerary": "removed {'BKK - DOH - DXB': {'flights_numbers 831 - 1016': {'time_departure': '2015-10-30T0835', 'time_arrival': '2015-10-30T1510'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 1023 - 830": "added {'time_departure': '2015-10-27T1330', 'time_arrival': '2015-10-28T0655'}",
+        "flights_numbers 1015 - 832": "added {'time_departure': '2015-10-27T0030', 'time_arrival': '2015-10-27T1845'}",
+        "flights_numbers 1007 - 830": "added {'time_departure': '2015-10-27T1230', 'time_arrival': '2015-10-28T0655'}",
+        "flights_numbers 1013 - 836": "added {'time_departure': '2015-10-27T1830', 'time_arrival': '2015-10-28T1210'}",
+        "flights_numbers 1013 - 834": "added {'time_departure': '2015-10-27T1830', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1001 - 830": "added {'time_departure': '2015-10-27T1130', 'time_arrival': '2015-10-28T0655'}",
+        "flights_numbers 1011 - 834": "added {'time_departure': '2015-10-27T1530', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1065 - 834": "added {'time_departure': '2015-10-27T1930', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1009 - 834": "added {'time_departure': '2015-10-27T2030', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1017 - 834": "added {'time_departure': '2015-10-27T1630', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1065 - 832": "added {'time_departure': '2015-10-27T1930', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1009 - 836": "added {'time_departure': '2015-10-27T2030', 'time_arrival': '2015-10-28T1210'}",
+        "flights_numbers 1065 - 836": "added {'time_departure': '2015-10-27T1930', 'time_arrival': '2015-10-28T1210'}",
+        "flights_numbers 1025 - 830": "added {'time_departure': '2015-10-27T0930', 'time_arrival': '2015-10-28T0655'}",
+        "flights_numbers 1019 - 832": "added {'time_departure': '2015-10-27T2230', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1017 - 836": "added {'time_departure': '2015-10-27T1630', 'time_arrival': '2015-10-28T1210'}",
+        "flights_numbers 1009 - 832": "added {'time_departure': '2015-10-27T2030', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1027 - 832": "added {'time_departure': '2015-10-27T2130', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1011 - 830": {
+            "time_arrival": "updated from 2015-10-23T0725 to 2015-10-28T0655",
+            "time_departure": "updated from 2015-10-22T1530 to 2015-10-27T1530"
+        },
+        "flights_numbers 1021 - 832": {
+            "time_arrival": "updated from 2015-10-22T1905 to 2015-10-27T1845",
+            "time_departure": "updated from 2015-10-22T0530 to 2015-10-27T0630"
+        },
+        "flights_numbers 1065 - 830": {
+            "time_arrival": "updated from 2015-10-23T0725 to 2015-10-28T0655",
+            "time_departure": "updated from 2015-10-22T1900 to 2015-10-27T1930"
+        },
+        "flights_numbers 1019 - 836": {
+            "time_arrival": "updated from 2015-10-23T1240 to 2015-10-28T1210",
+            "time_departure": "updated from 2015-10-22T2230 to 2015-10-27T2230"
+        },
+        "flights_numbers 1027 - 836": {
+            "time_arrival": "updated from 2015-10-23T1240 to 2015-10-28T1210",
+            "time_departure": "updated from 2015-10-22T2130 to 2015-10-27T2130"
+        },
+        "flights_numbers 1013 - 830": {
+            "time_arrival": "updated from 2015-10-23T0725 to 2015-10-28T0655",
+            "time_departure": "updated from 2015-10-22T1830 to 2015-10-27T1830"
+        },
+        "flights_numbers 1015 - 836": {
+            "time_arrival": "updated from 2015-10-22T1240 to 2015-10-27T1210",
+            "time_departure": "updated from 2015-10-22T0030 to 2015-10-27T0030"
+        },
+        "flights_numbers 1027 - 834": {
+            "time_arrival": "updated from 2015-10-23T1205 to 2015-10-28T1135",
+            "time_departure": "updated from 2015-10-22T2130 to 2015-10-27T2130"
+        },
+        "flights_numbers 1017 - 830": {
+            "time_arrival": "updated from 2015-10-23T0725 to 2015-10-28T0655",
+            "time_departure": "updated from 2015-10-22T1630 to 2015-10-27T1630"
+        },
+        "flights_numbers 1003 - 832": {
+            "time_arrival": "updated from 2015-10-22T1905 to 2015-10-27T1845",
+            "time_departure": "updated from 2015-10-22T0630 to 2015-10-27T0530"
+        },
+        "flights_numbers 1019 - 834": {
+            "time_arrival": "updated from 2015-10-23T1205 to 2015-10-28T1135",
+            "time_departure": "updated from 2015-10-22T2230 to 2015-10-27T2230"
+        },
+        "flights_numbers 1005 - 832": {
+            "time_arrival": "updated from 2015-10-22T1905 to 2015-10-27T1845",
+            "time_departure": "updated from 2015-10-22T0730 to 2015-10-27T0730"
+        }
+    },
+    "DXB - BOM - BKK": {
+        "Return_itinerary": "removed {'BKK - BOM - DXB': {'flights_numbers 61 - 544': {'time_departure': '2015-10-30T0855', 'time_arrival': '2015-10-30T2045'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 541 - 330": "added {'time_departure': '2015-10-27T1215', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 541 - 734": "added {'time_departure': '2015-10-27T1215', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 541 - 62": "added {'time_departure': '2015-10-27T1215', 'time_arrival': '2015-10-28T0715'}",
+        "flights_numbers 535 - 4330": "added {'time_departure': '2015-10-27T1610', 'time_arrival': '2015-10-28T0715'}",
+        "flights_numbers 537 - 330": "added {'time_departure': '2015-10-27T1855', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 541 - 4330": "added {'time_departure': '2015-10-27T1215', 'time_arrival': '2015-10-28T0715'}",
+        "flights_numbers 535 - 734": "added {'time_departure': '2015-10-27T1610', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 502 - 330": "added {'time_departure': '2015-10-27T1320', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 541 - 318": "added {'time_departure': '2015-10-27T1215', 'time_arrival': '2015-10-28T0505'}",
+        "flights_numbers 508 - 330": "added {'time_departure': '2015-10-27T1600', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 506 - 330": "added {'time_departure': '2015-10-27T0925', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 506 - 734": "added {'time_departure': '2015-10-27T0925', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 508 - 734": "added {'time_departure': '2015-10-27T1600', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 535 - 330": "added {'time_departure': '2015-10-27T1610', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 537 - 734": "added {'time_departure': '2015-10-27T1855', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 535 - 318": "added {'time_departure': '2015-10-27T1610', 'time_arrival': '2015-10-28T0505'}",
+        "flights_numbers 502 - 734": "added {'time_departure': '2015-10-27T1320', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 537 - 4330": "added {'time_departure': '2015-10-27T1855', 'time_arrival': '2015-10-28T0715'}",
+        "flights_numbers 535 - 70": {
+            "time_arrival": "updated from 2015-10-23T1440 to 2015-10-28T1500",
+            "time_departure": "updated from 2015-10-22T1510 to 2015-10-27T1610"
+        },
+        "flights_numbers 537 - 70": {
+            "time_arrival": "updated from 2015-10-23T1440 to 2015-10-28T1500",
+            "time_departure": "updated from 2015-10-22T1845 to 2015-10-27T1855"
+        },
+        "flights_numbers 543 - 70": {
+            "time_arrival": "updated from 2015-10-23T1440 to 2015-10-28T1500",
+            "time_departure": "updated from 2015-10-22T2140 to 2015-10-27T2205"
+        },
+        "flights_numbers 535 - 62": {
+            "time_arrival": "updated from 2015-10-23T0655 to 2015-10-28T0715",
+            "time_departure": "updated from 2015-10-22T1510 to 2015-10-27T1610"
+        },
+        "flights_numbers 537 - 62": {
+            "time_arrival": "updated from 2015-10-23T0655 to 2015-10-28T0715",
+            "time_departure": "updated from 2015-10-22T1845 to 2015-10-27T1855"
+        }
+    },
+    "DXB - MCT - BKK": {
+        "Return_itinerary": "removed {'BKK - MCT - DXB': {'flights_numbers 818 - 609': {'time_departure': '2015-10-30T0920', 'time_arrival': '2015-10-30T1530'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 5862 - 817": "added {'time_departure': '2015-10-27T0830', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 5864 - 817": "added {'time_departure': '2015-10-27T1640', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 5866 - 815": "added {'time_departure': '2015-10-27T0255', 'time_arrival': '2015-10-27T1900'}",
+        "flights_numbers 624 - 817": "added {'time_departure': '2015-10-27T2015', 'time_arrival': '2015-10-28T0720'}",
+        "flights_numbers 606 - 817": {
+            "time_arrival": "updated from 2015-10-23T0800 to 2015-10-28T0720",
+            "time_departure": "updated from 2015-10-22T1225 to 2015-10-27T1225"
+        },
+        "flights_numbers 602 - 815": {
+            "time_arrival": "updated from 2015-10-22T1840 to 2015-10-27T1900",
+            "time_departure": "updated from 2015-10-22T0655 to 2015-10-27T0655"
+        },
+        "flights_numbers 614 - 815": {
+            "time_arrival": "updated from 2015-10-23T1840 to 2015-10-28T1900",
+            "time_departure": "updated from 2015-10-22T1915 to 2015-10-27T1955"
+        },
+        "flights_numbers 612 - 815": {
+            "time_arrival": "updated from 2015-10-23T1840 to 2015-10-28T1900",
+            "time_departure": "updated from 2015-10-22T2240 to 2015-10-27T2225"
+        },
+        "flights_numbers 610 - 817": {
+            "time_arrival": "updated from 2015-10-23T0800 to 2015-10-28T0720",
+            "time_departure": "updated from 2015-10-22T1720 to 2015-10-27T1620"
+        },
+        "flights_numbers 614 - 817": {
+            "time_arrival": "updated from 2015-10-23T0800 to 2015-10-28T0720",
+            "time_departure": "updated from 2015-10-22T1915 to 2015-10-27T1955"
+        },
+        "flights_numbers 604 - 817": {
+            "time_arrival": "updated from 2015-10-23T0800 to 2015-10-28T0720",
+            "time_departure": "updated from 2015-10-22T1000 to 2015-10-27T1040"
+        },
+        "flights_numbers 624 - 815": {
+            "time_arrival": "updated from 2015-10-23T1840 to 2015-10-28T1900",
+            "time_departure": "updated from 2015-10-22T2040 to 2015-10-27T2015"
+        }
+    },
+    "DXB - BKK": {
+        "Return_itinerary": "removed {'BKK - DXB': {'flights_numbers 419': {'time_departure': '2015-10-30T0225', 'time_arrival': '2015-10-30T0605'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 8418": "added {'time_departure': '2015-10-27T0905', 'time_arrival': '2015-10-27T1805'}",
+        "flights_numbers 518": "added {'time_departure': '2015-10-27T2130', 'time_arrival': '2015-10-28T0650'}",
+        "flights_numbers 8372": "added {'time_departure': '2015-10-27T0935', 'time_arrival': '2015-10-27T1840'}",
+        "flights_numbers 8376": "added {'time_departure': '2015-10-27T0330', 'time_arrival': '2015-10-27T1235'}",
+        "flights_numbers 8384": "added {'time_departure': '2015-10-27T0305', 'time_arrival': '2015-10-27T1205'}",
+        "flights_numbers 370": {
+            "time_arrival": "updated from 2015-10-23T0055 to 2015-10-28T0020",
+            "time_departure": "updated from 2015-10-22T1520 to 2015-10-27T1520"
+        },
+        "flights_numbers 376": {
+            "time_arrival": "updated from 2015-10-22T1300 to 2015-10-27T1235",
+            "time_departure": "updated from 2015-10-22T0340 to 2015-10-27T0330"
+        },
+        "flights_numbers 372": {
+            "time_arrival": "updated from 2015-10-22T1915 to 2015-10-27T1840",
+            "time_departure": "updated from 2015-10-22T0940 to 2015-10-27T0935"
+        },
+        "flights_numbers 384": {
+            "time_arrival": "updated from 2015-10-22T1230 to 2015-10-27T1205",
+            "time_departure": "updated from 2015-10-22T0300 to 2015-10-27T0305"
+        },
+        "flights_numbers 418": {
+            "time_arrival": "updated from 2015-10-22T1810 to 2015-10-27T1805",
+            "time_departure": "updated from 2015-10-22T0850 to 2015-10-27T0905"
+        },
+        "flights_numbers 374": {
+            "time_arrival": "updated from 2015-10-23T0800 to 2015-10-28T0730",
+            "time_departure": "updated from 2015-10-22T2230 to 2015-10-27T2230"
+        }
+    },
+    "DXB - KUL - BKK": {
+        "Return_itinerary": "removed {'BKK - KUL - DXB': {'flights_numbers 797 - 162': {'time_departure': '2015-10-30T0555', 'time_arrival': '2015-10-30T1850'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 163 - 5860": "removed {'time_departure': '2015-10-22T1935', 'time_arrival': '2015-10-23T1430'}",
+        "flights_numbers 8408 - 774": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1740'}",
+        "flights_numbers 8408 - 780": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1910'}",
+        "flights_numbers 408 - 780": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1910'}",
+        "flights_numbers 8408 - 776": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T2055'}",
+        "flights_numbers 408 - 776": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T2055'}",
+        "flights_numbers 408 - 774": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1740'}",
+        "flights_numbers 346 - 780": "added {'time_departure': '2015-10-27T0410', 'time_arrival': '2015-10-27T1910'}",
+        "flights_numbers 346 - 776": "added {'time_departure': '2015-10-27T0410', 'time_arrival': '2015-10-27T2055'}",
+        "flights_numbers 408 - 782": "added {'time_departure': '2015-10-27T0245', 'time_arrival': '2015-10-27T1620'}",
+        "flights_numbers 346 - 796": "added {'time_departure': '2015-10-27T0410', 'time_arrival': '2015-10-27T2300'}",
+        "flights_numbers 342 - 784": "added {'time_departure': '2015-10-27T1015', 'time_arrival': '2015-10-28T1015'}",
+        "flights_numbers 163 - 788": {
+            "time_arrival": "updated from 2015-10-23T1325 to 2015-10-28T1330",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        },
+        "flights_numbers 163 - 782": {
+            "time_arrival": "updated from 2015-10-23T1620 to 2015-10-28T1620",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        },
+        "flights_numbers 163 - 784": {
+            "time_arrival": "updated from 2015-10-23T1015 to 2015-10-28T1015",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        },
+        "flights_numbers 163 - 774": {
+            "time_arrival": "updated from 2015-10-23T1720 to 2015-10-28T1740",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        },
+        "flights_numbers 163 - 780": {
+            "time_arrival": "updated from 2015-10-23T1855 to 2015-10-28T1910",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        },
+        "flights_numbers 163 - 776": {
+            "time_arrival": "updated from 2015-10-23T2000 to 2015-10-28T2055",
+            "time_departure": "updated from 2015-10-22T1935 to 2015-10-27T2015"
+        }
+    },
+    "DXB - BAH - BKK": {
+        "Return_itinerary": "removed {'BKK - BAH - DXB': {'flights_numbers 153 - 500': {'time_departure': '2015-10-30T2050', 'time_arrival': '2015-10-31T0410'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 511 - 150": "added {'time_departure': '2015-10-27T2120', 'time_arrival': '2015-10-28T1935'}",
+        "flights_numbers 513 - 150": {
+            "time_arrival": "updated from 2015-10-23T2010 to 2015-10-28T1935",
+            "time_departure": "updated from 2015-10-22T2335 to 2015-10-27T2325"
+        }
+    },
+    "XNB - AUH - BKK": {
+        "Return_itinerary": "removed {'BKK - AUH - XNB': {'flights_numbers 403 - 5424': {'time_departure': '2015-10-30T0835', 'time_arrival': '2015-10-30T1520'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 5419 - 406": "added {'time_departure': '2015-10-27T1200', 'time_arrival': '2015-10-28T0905'}",
+        "flights_numbers 5411 - 404": "added {'time_departure': '2015-10-27T0500', 'time_arrival': '2015-10-27T1940'}",
+        "flights_numbers 5419 - 402": "added {'time_departure': '2015-10-27T1200', 'time_arrival': '2015-10-28T0645'}",
+        "flights_numbers 5429 - 404": "added {'time_departure': '2015-10-27T2330', 'time_arrival': '2015-10-28T1940'}",
+        "flights_numbers 5417 - 406": "added {'time_departure': '2015-10-27T1000', 'time_arrival': '2015-10-28T0905'}",
+        "flights_numbers 5427 - 404": "added {'time_departure': '2015-10-27T2200', 'time_arrival': '2015-10-28T1940'}",
+        "flights_numbers 5423 - 408": "added {'time_departure': '2015-10-27T1900', 'time_arrival': '2015-10-28T1800'}",
+        "flights_numbers 5429 - 408": "added {'time_departure': '2015-10-27T2330', 'time_arrival': '2015-10-28T1800'}",
+        "flights_numbers 5421 - 402": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T0645'}",
+        "flights_numbers 5417 - 402": "added {'time_departure': '2015-10-27T1000', 'time_arrival': '2015-10-28T0645'}",
+        "flights_numbers 5421 - 406": "added {'time_departure': '2015-10-27T1800', 'time_arrival': '2015-10-28T0905'}",
+        "flights_numbers 5413 - 404": "added {'time_departure': '2015-10-27T0600', 'time_arrival': '2015-10-27T1940'}",
+        "flights_numbers 5425 - 408": "added {'time_departure': '2015-10-27T1930', 'time_arrival': '2015-10-28T1800'}",
+        "flights_numbers 5423 - 406": "added {'time_departure': '2015-10-27T1900', 'time_arrival': '2015-10-28T0905'}",
+        "flights_numbers 5427 - 408": "added {'time_departure': '2015-10-27T2200', 'time_arrival': '2015-10-28T1800'}",
+        "flights_numbers 5425 - 406": "added {'time_departure': '2015-10-27T1930', 'time_arrival': '2015-10-28T0905'}",
+        "flights_numbers 5411 - 408": "added {'time_departure': '2015-10-27T0500', 'time_arrival': '2015-10-27T1800'}",
+        "flights_numbers 5415 - 404": {
+            "time_arrival": "updated from 2015-10-22T1950 to 2015-10-27T1940",
+            "time_departure": "updated from 2015-10-22T0700 to 2015-10-27T0700"
+        }
+    },
+    "DWC - DOH - BKK": {
+        "Return_itinerary": "removed {'BKK - DOH - DXB': {'flights_numbers 831 - 1016': {'time_departure': '2015-10-30T0835', 'time_arrival': '2015-10-30T1510'}}}",
+        "Pricing": "The price can't be compared because of the absence of return itinerary",
+        "flights_numbers 1035 - 832": "added {'time_departure': '2015-10-27T2335', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1031 - 836": "added {'time_departure': '2015-10-27T1950', 'time_arrival': '2015-10-28T1210'}",
+        "flights_numbers 1031 - 834": "added {'time_departure': '2015-10-27T1950', 'time_arrival': '2015-10-28T1135'}",
+        "flights_numbers 1031 - 832": "added {'time_departure': '2015-10-27T1950', 'time_arrival': '2015-10-28T1845'}",
+        "flights_numbers 1033 - 832": {
+            "time_arrival": "updated from 2015-10-22T1905 to 2015-10-27T1845",
+            "time_departure": "updated from 2015-10-22T0545 to 2015-10-27T0625"
+        },
+        "flights_numbers 1035 - 836": {
+            "time_arrival": "updated from 2015-10-23T1240 to 2015-10-28T1210",
+            "time_departure": "updated from 2015-10-22T2330 to 2015-10-27T2335"
+        },
+        "flights_numbers 1031 - 830": {
+            "time_arrival": "updated from 2015-10-23T0725 to 2015-10-28T0655",
+            "time_departure": "updated from 2015-10-22T1945 to 2015-10-27T1950"
+        },
+        "flights_numbers 1035 - 834": {
+            "time_arrival": "updated from 2015-10-23T1205 to 2015-10-28T1135",
+            "time_departure": "updated from 2015-10-22T2330 to 2015-10-27T2335"
+        }
+    }
+}
