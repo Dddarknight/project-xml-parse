@@ -1,8 +1,16 @@
 [tool.poetry]
-name = "'xml-diffDddarknight'"
+name = "'xmldiffDddarknight'"
 version = "0.1.0"
-description = ""
+description = "Shows difference between 2 xml-files which contain information about flights parameters"
 authors = ["Dddarknight <9801677@gmail.com>"]
+license = "GPL-3.0-only"
+keywords = ["diff", "difference", "xml"]
+classifiers = [
+  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+  "Programming Language :: Python :: 3",
+  "Topic :: Text Processing"
+]
+repository = "https://github.com/Dddarknight/project-xml-parse"
 packages = [
   { include = "xml_diff" },
 ]

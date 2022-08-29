@@ -1,4 +1,4 @@
-def make_dict_diff(node1, node2):
+def make_diff_tree(node1, node2):
     tree = {}
     common_keys = set(node1.keys()) & set(node2.keys())
     removed = set(node1.keys()) - common_keys
@@ -23,7 +23,7 @@ def make_dict_diff(node1, node2):
     tree.update({key: f'added {node2[key]}' for key in added})
     for key in common_keys:
         if isinstance(node1[key], dict) and isinstance(node2[key], dict):
-            tree[key] = make_dict_diff(node1[key], node2[key])
+            tree[key] = make_diff_tree(node1[key], node2[key])
             continue
         tree[key] = 'unchanged' if node1[key] == node2[key] else (
             f'updated from {node1[key]} to {node2[key]}')

@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        # we want to test our package on several versions of Python
         python-version: [3.8, 3.9]
     steps:
       - uses: actions/checkout@v2
@@ -17,7 +16,6 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
-        # make depends on poetry
       - name: Install dependencies
         run: |
           pip install poetry
@@ -28,7 +26,7 @@ jobs:
       - name: Test & publish code coverage
         uses: paambaati/codeclimate-action@v2.7.5
         env:
-          CC_TEST_REPORTER_ID: 3683be66c9dfa9d29218217e7411e4dc36e10dba56d1b18e88dca4dba9a14964
+          CC_TEST_REPORTER_ID: ${{ secrets.TEST_REPORTER_ID_CODECLIMATE }}
         with:
           coverageCommand: make test-coverage
           debug: true
